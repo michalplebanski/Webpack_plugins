@@ -4,9 +4,9 @@
 	display: flex;
 	flex-direction: column;
 	justify-content: space-around;
-    align-items: center;
-    padding: 2vh 1vw;
-    background-color: #ff0000;
-    color: #fff;
+    	align-items: center;
+    	padding: 2vh 1vw;
+    	background-color: #ff0000;
+    	color: #fff;
 	font-size: 3vh;
 }
